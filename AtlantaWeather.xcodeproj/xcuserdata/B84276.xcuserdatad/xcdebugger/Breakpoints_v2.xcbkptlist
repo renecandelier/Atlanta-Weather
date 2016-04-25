@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AtlantaWeather/Network/WeatherCommunicator.swift"
+            timestampString = "483221865.620891"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "getCurrentForcast(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AtlantaWeather.WeatherCommunicator.(getCurrentForcast ((weatherDetail : AtlantaWeather.WeatherInfo) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "AtlantaWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/B84276/_Rene/AtlantaWeather/AtlantaWeather/Network/WeatherCommunicator.swift"
+                  timestampString = "483221998.960989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AtlantaWeather.WeatherCommunicator.(getCurrentForcast ((weatherDetail : AtlantaWeather.WeatherInfo) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "AtlantaWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/B84276/_Rene/AtlantaWeather/AtlantaWeather/Network/WeatherCommunicator.swift"
+                  timestampString = "483221998.9611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
