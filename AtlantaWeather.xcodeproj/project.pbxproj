@@ -88,10 +88,9 @@
 			isa = PBXGroup;
 			children = (
 				23CA197A1CCBF6770063DD05 /* AppDelegate.swift */,
-				23CA199E1CCBF6EE0063DD05 /* Model */,
-				23CA199F1CCBF6EE0063DD05 /* Network */,
 				23CA19A01CCBF6EE0063DD05 /* Storyboards */,
 				23CA19A11CCBF6EE0063DD05 /* View Controllers */,
+				23CA199E1CCBF6EE0063DD05 /* Model */,
 				23CA19A21CCBF6EE0063DD05 /* Views */,
 				23CA19841CCBF6770063DD05 /* Assets.xcassets */,
 				23CA19861CCBF6770063DD05 /* LaunchScreen.storyboard */,
@@ -113,6 +112,7 @@
 		23CA199E1CCBF6EE0063DD05 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				23CA199F1CCBF6EE0063DD05 /* Network */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -122,7 +122,8 @@
 			children = (
 				23CA19AC1CCC151C0063DD05 /* WeatherCommunicator.swift */,
 			);
-			path = Network;
+			name = Network;
+			path = ../Network;
 			sourceTree = "<group>";
 		};
 		23CA19A01CCBF6EE0063DD05 /* Storyboards */ = {
